@@ -6,5 +6,5 @@ Can be run from R with the following commands
 
 ```{r}
 library(shiny)
-
+runGitHub('ShinyDPG', 'ekstroem')
 ```
